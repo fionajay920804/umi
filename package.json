@@ -1,0 +1,19 @@
+{
+  "name": "umi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/pro-layout": "^4.5.16",
+    "ant-design-pro": "^2.3.2",
+    "antd": "^3.23.6",
+    "axios": "^0.18.1",
+    "umi-plugin-react": "^1.12.2"
+  }
+}
